@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the web and mobile team at [LuLaRoe](https://www.lularoe.com/)
+- 🌱 I’m currently learning at [Flatiron School](https://flatironschool.com/)
+- 📚 I’m like taking additional courses from [FrontendMasters](https://frontendmasters.com/)
+- 👯 I’m looking to collaborate on any side projects that seem interesting and fun!
+- 🤔 I’m looking for help with more computer science related topics
+- 💬 Ask me about anything web related or mobile related!
+- 📫 How to reach me: [My Website](https://www.knbrlo.com) or on [Twitter](https://twitter.com/home)
+
 <!--
 **knbrlo/knbrlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
