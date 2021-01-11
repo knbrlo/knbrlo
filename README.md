@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the web and mobile team at [LuLaRoe](https://www.lularoe.com/)
 - 🌱 I’m currently learning at [Flatiron School](https://flatironschool.com/)
 - 📚 I’m like taking additional courses from [FrontendMasters](https://frontendmasters.com/)
 - 👯 I’m looking to collaborate on any side projects that seem interesting and fun!
