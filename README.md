@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning at [Flatiron School](https://flatironschool.com/)
-- 📚 I’m like taking additional courses from [FrontendMasters](https://frontendmasters.com/)
+- 📚 I’m taking additional courses from [FrontendMasters](https://frontendmasters.com/)
 - 👯 I’m looking to collaborate on any side projects that seem interesting and fun!
 - 🤔 I’m looking for help with more computer science related topics
 - 💬 Ask me about anything web related or mobile related!
